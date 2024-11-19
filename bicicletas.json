@@ -1,0 +1,70 @@
+{
+    "bicicletas": [
+        {
+            "Marca": "Olmo",
+            "Modelo": "Regal",
+            "Rodado": 29,
+            "Año de fabricación": 2022,
+            "Color": "roja",
+            "Peso en Kilogramos": 16,
+            "Tipo": "Paseo",
+            "Precio": 120000,
+            "Vendida": false
+        },
+        {
+            "Marca": "Shifter",
+            "Modelo": "Sunshine",
+            "Rodado": 26,
+            "Año de fabricación": 2024,
+            "Color": "Verde",
+            "Peso en Kilogramos": 13,
+            "Tipo": "Paseo",
+            "Precio": 240000,
+            "Vendida": true
+        },
+        {
+            "Marca": "TopMega",
+            "Modelo": "Ruta",
+            "Rodado": 29,
+            "Año de fabricación": 2021,
+            "Color": "Verde",
+            "Peso en Kilogramos": 17,
+            "Tipo": "Triatlón",
+            "Precio": 320000,
+            "Vendida": true
+        },
+        {
+            "Marca": "Halley",
+            "Modelo": "FM18F29AM210",
+            "Rodado": 26,
+            "Año de fabricación": 2023,
+            "Color": "Verde",
+            "Peso en Kilogramos": 15,
+            "Tipo": "Montañera",
+            "Precio": 240000,
+            "Vendida": false
+        },
+        {
+            "Marca": "SLP",
+            "Modelo": "Techno",
+            "Rodado": 29,
+            "Año de fabricación": 2019,
+            "Color": "Azul",
+            "Peso en Kilogramos": 17,
+            "Tipo": "Montañera",
+            "Precio": 190000,
+            "Vendida": true
+        },
+        {
+            "Marca": "Halley",
+            "Modelo": "2020",
+            "Rodado": 16,
+            "Año de fabricación": 2024,
+            "Color": "Rosa",
+            "Peso en Kilogramos": 13,
+            "Tipo": "Paseo",
+            "Precio": 150000,
+            "Vendida": false
+        }
+    ]
+}

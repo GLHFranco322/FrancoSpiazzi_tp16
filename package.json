@@ -1,0 +1,9 @@
+{
+  "name": "tp16",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "datosBici.js",
+  "scripts": {
+    "start": "node datosBici.js"
+  }
+}

@@ -7,7 +7,3 @@ function importarBicicletas() {
 
 // Exporta la función utilizando ES Modules
 export { importarBicicletas };
-
-// Si necesitas probar la función directamente aquí
-const bicicletas = importarBicicletas();
-console.log(bicicletas);

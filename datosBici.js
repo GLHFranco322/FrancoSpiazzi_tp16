@@ -5,5 +5,4 @@ function importarBicicletas() {
     return JSON.parse(data).bicicletas;
 }
 
-// Exporta la función utilizando ES Modules
 export { importarBicicletas };
